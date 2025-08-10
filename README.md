@@ -1,4 +1,4 @@
-## 🌟 Personal Portfolio – Rangesh Pandian PT
+## 🌟 Personal Portfolio – RangeshPandian PT
 
 
 
@@ -66,4 +66,4 @@ https://rangesh-portfolio.netlify.app/
 📬 Contact Me
 💌 Email: rangeshpandian@gmail.com
 🔗 LinkedIn: [linkedin.com/in/rangeshpandianpt](https://www.linkedin.com/in/rangeshpandian-pt-428b04325/)
-💻 GitHub: github.com/RangeshPandianPT
+💻 GitHub: [github.com/RangeshPandianPT](https://github.com/RangeshPandianPT)
